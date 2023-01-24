@@ -1,0 +1,5 @@
+# dot env inviroment variables
+.env
+
+# node_modules
+/node_modules
